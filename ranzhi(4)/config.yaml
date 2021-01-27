@@ -1,0 +1,4 @@
+LoginPage:
+  ACCOUNT: 'id account'
+  PASSWORD: 'id password'
+  SUBMIT: 'id submit'
